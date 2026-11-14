@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52990850498",
+    "firebase_url": "https://jarvis-38b74-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jarvis-38b74",
+    "storage_bucket": "jarvis-38b74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52990850498:android:11b2c6d986746cfa72925b",
+        "android_client_info": {
+          "package_name": "com.inam.jarvice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52990850498-55icgpfjt8qb5hrsg3bd52ir209iampv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inam.jarvice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "52990850498-kl70g82u5cninkfnepr58v783m4q7vlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxY9tW3DvVXxjwkWdLEs0zstFzZlWrzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52990850498-kl70g82u5cninkfnepr58v783m4q7vlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
